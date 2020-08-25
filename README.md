@@ -1,1 +1,1 @@
-# timer
+Tomato là một tiện ích mở rộng bộ đếm thời gian Pomodoro được phát triển để giới thiệu các tiện ích mở rộng chrome
